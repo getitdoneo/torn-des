@@ -1,13 +1,9 @@
-# torn
 <div align="center" style="margin-bottom:20px;">
   <img src="https://i.ibb.co/zhJDFRm5/e1403e6c-20ec-4841-b5d5-be991ba0fdc4.png" 
        alt="Corporate Banner" 
        style="max-width:100%; border-bottom:3px solid #c7b37f; opacity:0.9;">
 </div>
 
----
-
-## **SECTION 1 — CORPORATE MISSION DIRECTIVE**
 <div style="background:#0d0d0d; border:1px solid #c7b37f; padding:20px; border-radius:6px; font-size:14px;">
 
 <h2 style="font-family:'Russo One', sans-serif; color:#c7b37f; margin-top:0; letter-spacing:1px;">
@@ -21,10 +17,7 @@ Unauthorized access will result in immediate disciplinary action.
 
 </div>
 
----
-
-## **SECTION 2 — PERFORMANCE AUGMENTATION INDEX**
-<div style="background:#111; border:1px solid #3a3a3a; padding:20px; border-radius:6px;">
+<div style="background:#111; border:1px solid #3a3a3a; padding:20px; border-radius:6px; margin-top:20px;">
 
 <table style="width:100%; border-collapse:collapse; font-size:13px; color:#e0e0e0;">
   <tr style="border-bottom:1px solid #3a3a3a;">
@@ -48,10 +41,7 @@ Quarterly recalibration required.
 
 </div>
 
----
-
-## **SECTION 3 — PRIORITY THREAT CATALOG**
-<div style="background:#0f0f0f; border:1px solid #c7b37f; padding:20px; border-radius:6px;">
+<div style="background:#0f0f0f; border:1px solid #c7b37f; padding:20px; border-radius:6px; margin-top:20px;">
 
 <h3 style="font-family:'Russo One', sans-serif; color:#c7b37f; margin-top:0;">
 ⚠ THREAT REGISTER: ACTIVE CONTRACTS
@@ -79,9 +69,6 @@ Submit combat log to Claims Processing Unit WY‑14.
 
 </div>
 
----
-
-## **SECTION 4 — PERSONNEL ACQUISITION CHANNEL**
 <div align="center" style="margin-top:25px;">
   <a href="/YOUR_DISCORD_LINK"
      style="background:#c7b37f; color:#000; padding:15px 40px; border-radius:4px; text-decoration:none; font-size:16px; font-family:'Russo One', sans-serif; text-transform:uppercase; letter-spacing:1px;">
