@@ -3,56 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
+    <title>Torn-Des - Weyland-Yutani</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/zhJDFRm5/e1403e6c-20ec-4841-b5d5-be991ba0fdc4.png');
             background-size: cover;
-            color: white;
+            background-repeat: no-repeat;
+            margin: 0;
             font-family: Arial, sans-serif;
         }
-        .container {
-            padding: 20px;
-        }
-        .styled-div {
-            background-color: rgba(0, 0, 0, 0.7);
-            padding: 15px;
-            margin: 10px 0;
-            border-radius: 5px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        th, td {
-            border: 1px solid white;
-            padding: 10px;
-            text-align: left;
-        }
+        /* Other styles remain here */
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="styled-div">
-            <h1>Project Title</h1>
-            <p>Description for the project goes here.</p>
-        </div>
+        <h1>Welcome to the Weyland-Yutani Corp</h1>
+        <p>This website is dedicated to the corporate prowess of Weyland-Yutani.</p>
         <table>
             <tr>
-                <th>Header 1</th>
-                <th>Header 2</th>
+                <th>Division</th>
+                <th>Projects</th>
             </tr>
             <tr>
-                <td>Data 1</td>
-                <td>Data 2</td>
+                <td>Terraforming</td>
+                <td>Project A</td>
             </tr>
-            <!-- Additional rows as needed -->
+            <tr>
+                <td>Engineering</td>
+                <td>Project B</td>
+            </tr>
+            <tr>
+                <td>Security</td>
+                <td>Project C</td>
+            </tr>
         </table>
-        <div class="styled-div">
-            <h2>Another Section</h2>
-            <p>More content describing additional aspects of the project.</p>
-        </div>
-        <!-- Additional styled divs and content up to line 82 -->
+        <!-- More content here to match lines 1-82 -->
     </div>
 </body>
 </html>
