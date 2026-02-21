@@ -1,7 +1,4 @@
 # torn
-# 🛰️ WEYLAND‑YUTANI // DIVISIONAL DOSSIER
-### “Building Better Worlds.”
-
 <div align="center" style="margin-bottom:20px;">
   <img src="https://i.ibb.co/zhJDFRm5/e1403e6c-20ec-4841-b5d5-be991ba0fdc4.png" 
        alt="Corporate Banner" 
