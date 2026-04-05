@@ -1,61 +1,71 @@
-[center][size=6][b]TORN-DES[/b][/size]
-[size=4]Corporate Operations Division[/size]
-[i]Strength • Discipline • Conquest[/i][/center]
+[center][size=7][b]TORN-DES[/b][/size]
+[size=5]The Organization That Doesn’t Forgive[/size]
+[i]Strength • Discipline • Loyalty[/i][/center]
 
 [hr]
 
-[size=5][b]⛓️ Our Purpose[/b][/size]
-We operate with precision, discipline, and absolute focus.  
-TORN-DES is built on the belief that a faction succeeds through structure, strategy, and the relentless pursuit of improvement.
+[size=5][b]🕴️ Who We Are[/b][/size]
+TORN-DES isn’t a crew — it’s an institution.  
+We don’t raise our voices. We don’t make threats.  
+We simply make decisions… and those decisions stand.
 
-We are not a social club.  
-We are not a casual experiment.  
-We are a machine — and every member is a critical component.
+We operate with the kind of cold precision  
+that leaves no room for mistakes, excuses, or second chances.
 
-[hr]
-
-[size=5][b]📊 Strength Metrics[/b][/size]
-[b]Power:[/b] Developing  
-[b]Efficiency:[/b] High  
-[b]Morale:[/b] Stable  
-
-(These values update as the faction grows.)
+People don’t fear our name because we’re loud.  
+They fear it because we’re consistent.
 
 [hr]
 
-[size=5][b]⚠️ Threat Register[/b][/size]
-[b]Active Contracts:[/b]  
-• Contract 1 — Ongoing  
-• Contract 2 — Pending  
-• Contract 3 — Under Review  
+[size=5][b]📊 Our Operations[/b][/size]
+[b]Territory Control:[/b] Expanding quietly  
+[b]Internal Order:[/b] Absolute  
+[b]Loyalty Enforcement:[/b] Non‑negotiable  
 
-[b]Hostile Entities:[/b]  
-• None currently flagged
-
-[hr]
-
-[size=5][b]🎯 What We Expect[/b][/size]
-• Daily activity  
-• Respect for leadership structure  
-• Participation in training and operations  
-• Willingness to grow stronger  
-• Zero drama, zero excuses
+We don’t tolerate chaos.  
+We don’t tolerate weakness.  
+If someone becomes a liability, they stop being a problem — permanently.
 
 [hr]
 
-[size=5][b]🛡️ What We Offer[/b][/size]
-• A clear path for advancement  
-• Organized leadership  
-• Training for new and returning players  
-• Long‑term strategic goals  
-• A faction built for efficiency and growth
+[size=5][b]⚠️ Current Situations[/b][/size]
+[b]Contracts in Motion:[/b]  
+• Contract 1 — Being resolved with finality  
+• Contract 2 — Awaiting authorization  
+• Contract 3 — Marked for later attention  
+
+[b]Rival Crews:[/b]  
+• A few names on a list — and lists get shorter
 
 [hr]
 
-[size=5][b]📨 Applications[/b][/size]
-If you want to be part of something structured, disciplined, and future‑focused, submit an application.
+[size=5][b]🧊 What We Expect[/b][/size]
+• Discipline without hesitation  
+• Loyalty without negotiation  
+• Work done cleanly, quietly, and completely  
+• Respect for the hierarchy  
+• Zero drama, zero excuses  
 
-Weakness is temporary.  
-Discipline is permanent.
+If you can’t handle pressure, you won’t last a day.
 
-[center][b]Join TORN-DES.[/b][/center]
+[hr]
+
+[size=5][b]💼 What You Gain[/b][/size]
+• Protection from a family that handles its business  
+• A place where loyalty is rewarded and betrayal is remembered  
+• Training that turns nobodies into earners  
+• A future built on power, not promises  
+
+We don’t offer comfort.  
+We offer certainty.
+
+[hr]
+
+[size=5][b]🖋️ Applications[/b][/size]
+If you think you can operate with a cold head and a steady hand, step forward.  
+But understand this:
+
+Once you stand with us, you carry our name.  
+And we don’t take disrespect lightly.
+
+[center][b]TORN-DES — We Don’t Warn Twice.[/b][/center]
