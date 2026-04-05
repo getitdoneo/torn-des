@@ -1,1 +1,61 @@
-<!DOCTYPE html>\n<html lang='en'>\n<head>\n    <meta charset='UTF-8'>\n    <meta name='viewport' content='width=device-width, initial-scale=1.0'>\n    <title>Weyland-Yutani</title>\n    <style>\n        body {\n            background-image: url('https://i.ibb.co/zhJDFRm5/e1403e6c-20ec-4841-b5d5-be991ba0fdc4.png');\n            background-size: cover;\n        }\n        .banner {\n            text-align: center;\n            margin: 20px;\n        }\n        .strength {\n            border: 5px solid gold;\n            background-color: #333;\n            color: white;\n            padding: 20px;\n            text-align: center;\n        }\n        .metrics, .threat-register {\n            margin: 20px auto;\n            width: 80%;\n            border-collapse: collapse;\n        }\n        .metrics th, .threat-register th {\n            border: 1px solid gold;\n            padding: 10px;\n        }\n        .metrics td, .threat-register td {\n            border: 1px solid gold;\n            padding: 10px;\n            text-align: center;\n        }\n        .submit-button {\n            text-align: center;\n            margin: 20px;\n        }\n    </style>\n</head>\n<body>\n    <div class='banner'>\n        <img src='https://example.com/corporate-banner.png' alt='Corporate Banner'>\n    </div>\n    <div class='strength'>\n        <h1>STRENGTH • DISCIPLINE • CONQUEST</h1>\n    </div>\n    <table class='metrics'>\n        <tr>\n            <th>Steadfast</th>\n            <th>Addiction Mitigation</th>\n            <th>Voracity</th>\n        </tr>\n        <tr>\n            <td>Value 1</td>\n            <td>Value 2</td>\n            <td>Value 3</td>\n        </tr>\n    </table>\n    <div class='threat-register'>\n        <h2>THREAT REGISTER</h2>\n        <table>\n            <tr>\n                <th>Active Contracts</th>\n            </tr>\n            <tr>\n                <td>Contract 1</td>\n            </tr>\n        </table>\n    </div>\n    <div class='submit-button'>\n        <button type='button'>Submit Application</button>\n    </div>\n</body>\n</html>
+[center][size=6][b]TORN-DES[/b][/size]
+[size=4]Corporate Operations Division[/size]
+[i]Strength • Discipline • Conquest[/i][/center]
+
+[hr]
+
+[size=5][b]⛓️ Our Purpose[/b][/size]
+We operate with precision, discipline, and absolute focus.  
+TORN-DES is built on the belief that a faction succeeds through structure, strategy, and the relentless pursuit of improvement.
+
+We are not a social club.  
+We are not a casual experiment.  
+We are a machine — and every member is a critical component.
+
+[hr]
+
+[size=5][b]📊 Strength Metrics[/b][/size]
+[b]Power:[/b] Developing  
+[b]Efficiency:[/b] High  
+[b]Morale:[/b] Stable  
+
+(These values update as the faction grows.)
+
+[hr]
+
+[size=5][b]⚠️ Threat Register[/b][/size]
+[b]Active Contracts:[/b]  
+• Contract 1 — Ongoing  
+• Contract 2 — Pending  
+• Contract 3 — Under Review  
+
+[b]Hostile Entities:[/b]  
+• None currently flagged
+
+[hr]
+
+[size=5][b]🎯 What We Expect[/b][/size]
+• Daily activity  
+• Respect for leadership structure  
+• Participation in training and operations  
+• Willingness to grow stronger  
+• Zero drama, zero excuses
+
+[hr]
+
+[size=5][b]🛡️ What We Offer[/b][/size]
+• A clear path for advancement  
+• Organized leadership  
+• Training for new and returning players  
+• Long‑term strategic goals  
+• A faction built for efficiency and growth
+
+[hr]
+
+[size=5][b]📨 Applications[/b][/size]
+If you want to be part of something structured, disciplined, and future‑focused, submit an application.
+
+Weakness is temporary.  
+Discipline is permanent.
+
+[center][b]Join TORN-DES.[/b][/center]
