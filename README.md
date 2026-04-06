@@ -1,4 +1,4 @@
-<div style="background:#0f0f0f; border:1px solid #c7b37f; padding:20px; border-radius:6px; margin-top:20px;">
+<https://i.ibb.co/zhJDFRm5/e1403e6c-20ec-4841-b5d5-be991ba0fdc4.pngdiv style="background:#0f0f0f; border:1px solid #c7b37f; padding:20px; border-radius:6px; margin-top:20px;">
 
 <h3 style="font-family:'Russo One', sans-serif; color:#c7b37f; margin-top:0;">
 ⚠ THREAT REGISTER: ACTIVE CONTRACTS
@@ -9,7 +9,7 @@
     <td>SUBJECT</td>
     <td>BOUNTY</td>
   </tr>
-  <tr>
+  <tr>https://i.ibb.co/zhJDFRm5/e1403e6c-20ec-4841-b5d5-be991ba0fdc4.png
     <td>[player]</td>
     <td style="color:#8bcf6a;">$500,000</td>
   </tr>
